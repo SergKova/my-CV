@@ -28,19 +28,29 @@ section {
     text-align: left;
     margin: 0 10% 0 17%;
     border-bottom: 2px solid blue;
+    display: inline-block;
 
 }
 
 
 .sect-Personal {
-    display: block;
+    display: inline-block;
     margin-left: 0;
+    text-align: justify;
 }
 
 
 .sect-Objective {
-    display: block;
+    display: inline-block;
     margin-left: 0;
+
+}
+
+img {
+    width: 130px;
+    display: inline-block;
+    object-position: right;
+    float: right;
 }
 
 section {
@@ -97,6 +107,7 @@ ul {
 
 }
 
+
 .sect-skill {
     margin: 0 10% 0 17%;
     display: block;
@@ -109,6 +120,12 @@ ul {
 }
 
 .sect-Languages {
+    margin: 0 10% 0 17%;
+    display: block;
+
+}
+
+.hobby {
     margin: 0 10% 0 17%;
     display: block;
 
