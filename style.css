@@ -1,0 +1,115 @@
+/* HEAD */
+h1 {
+    color: blueviolet;
+}
+body {
+    width: 100vw;
+}
+
+.artc {
+    margin: 10% 10% 0 17%;
+    text-align: right;
+    font-size: 25px;
+    border-bottom: 2px solid blue;
+}
+
+.div-head {
+    font-size: 20px;
+    color: blue;
+}
+
+/* BODY */
+
+section {
+    text-align: left;
+}
+
+.art2{
+    text-align: left;
+    margin: 0 10% 0 17%;
+    border-bottom: 2px solid blue;
+
+}
+
+
+.sect-Personal {
+    display: block;
+    margin-left: 0;
+}
+
+
+.sect-Objective {
+    display: block;
+    margin-left: 0;
+}
+
+section {
+    width: 997px;
+}
+
+h2 {
+    color: blue;
+    display: inline-block;
+    margin-right: 70px;
+    width: 218px;
+
+}
+
+.h2 {
+    margin-left: 0;
+}
+
+h3 {
+    display: inline-block;
+    margin-right: 118px;
+    text-align: right;
+    font-size: 14px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 5%;
+    
+   
+}
+.sect-Education {
+    margin: 0 10% 0 17%;
+    display: block;
+    
+}
+.list {
+    display: inline-block;
+    text-align: right;
+    margin-right: 5%;
+}
+.list2 {
+    list-style-type: disc;
+}
+
+.list3 {
+    display: inline-block;
+    text-align: right;
+    margin-right: 5%;
+
+}
+
+.sect-skill {
+    margin: 0 10% 0 17%;
+    display: block;
+
+}
+
+.sect-prof {
+    margin: 0 10% 0 17%;
+    display: block;
+}
+
+.sect-Languages {
+    margin: 0 10% 0 17%;
+    display: block;
+
+}
